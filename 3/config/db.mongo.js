@@ -1,0 +1,1 @@
+exports.url = "mongodb+srv://Dipesh:admin@cluster0.agjew.mongodb.net/Mongo3?retryWrites=true&w=majority";

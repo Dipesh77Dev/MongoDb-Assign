@@ -1,0 +1,23 @@
+{
+  "name": "mongo-2",
+  "version": "1.0.0",
+  "description": "mongo 2nd assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "mondo",
+    "node",
+    "express",
+    "api"
+  ],
+  "author": "Raj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3",
+    "nodemon": "^2.0.15"
+  }
+}
